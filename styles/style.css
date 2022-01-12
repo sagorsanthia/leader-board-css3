@@ -1,6 +1,10 @@
-/* Font Family Section */
+/* --------------------- 
+Font Family Section
+------------------------ */
   @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
-/* Utilities */
+/* --------------------------
+Utilities
+ ----------------------------*/
 body {
   font-family: 'Poppins', sans-serif;
   background: #F3F1FF;
@@ -22,7 +26,9 @@ hr {
   border: 1px solid #D1D1D1;
   margin-bottom: 27px;
 }
-/* Players section */
+/* -----------------------
+Players section 
+--------------------------*/
 .section-title {
   color: #562EFF;
   font-size: 24px;
@@ -46,7 +52,9 @@ hr {
   margin-left: 16px;
   font-size: 18px;
 }
-/* Top Blog Section */
+/* ---------------------
+Top Blog Section
+-------------------------*/
 .top-blogs {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
